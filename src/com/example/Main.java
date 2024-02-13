@@ -1,8 +1,11 @@
 package com.example;
 
+/**
+ * Used to run the annotation example.
+ */
 public class Main {
     /**
-     * The main method.
+     * The main method used for the annotation example.
      *
      * @param args
      */
